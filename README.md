@@ -1,1 +1,2 @@
-# my-website
+# my-portfolio
+Personal portfolio show casing web
